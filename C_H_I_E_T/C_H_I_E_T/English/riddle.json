@@ -1,0 +1,45 @@
+  
+{   
+    "riddles":[
+        {
+            "question":"I am tall when I am young, and I am short when I am old. What am I?"  ,
+            "answer": "candle"
+        },
+        {
+            "question":"What is full of holes but still holds water?"  ,
+            "answer": "sponge"
+        },
+        {
+            "question":"What has to be broken before you can use it?"  ,
+            "answer": "egg"
+        },
+        {
+            "question":"What goes up but never comes down?"  ,
+            "answer": "age"
+        },
+        {
+            "question":"What can you break, even if you never pick it up or touch it?"  ,
+            "answer": "promise"
+        },
+        {
+            "question":"What can not talk but will reply when spoken to?"  ,
+            "answer": "echo"
+        },
+        {
+            "question":"What gets wet while drying?"  ,
+            "answer": "towel"
+        },
+        {
+            "question":"What has keys but can't be locked?"  ,
+            "answer": "piano"
+        },
+        {
+            "question":"I make two people out of one what am I?"  ,
+            "answer": "mirror"
+        },
+        {
+            "question":"First I am dry, then I am wet; the longer I swim, The more taste you get.What am I?"  ,
+            "answer": "teabag"
+        }
+    ]
+}

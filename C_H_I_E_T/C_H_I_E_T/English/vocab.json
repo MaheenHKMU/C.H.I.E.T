@@ -1,0 +1,27 @@
+{
+    "vocab_list": [
+        {"word":"Consider","define":"deem to be"},
+         {"word":"Accord",  "define":"concurrence of opinion"},
+         {"word":"Evident", "define":"clearly revealed to the mind or the senses or judgment"},
+         {"word":"Practice", "define":"a customary way of operation or behavior"},
+         {"word":"Commit", "define":"perform an act, usually with a negative connotation"},
+         {"word":"Issue", "define":"some situation or event that is thought about"},
+         {"word":"Approach", "define":"move towards"},
+         {"word":"Utter", "define":"without qualification"},
+         {"word":"Conduct", "define":"direct the course of; manage or control"},
+         {"word":"Obtain", "define":"come into possession of"},
+         {"word":"Straight", "define":"successive, without a break"},
+         {"word":"Stock", "define":"capital raised by a corporation through the issue of shares"},
+         {"word":"Fancy", "define":"imagine; conceive of; see in one's mind"},
+         {"word":"Concept", "define":"an assembly to conduct judicial business"},
+         {"word":"Vain", "define":"unproductive of success"}
+    ],
+
+    "opposite":[
+        {"define": "The meaing of opposite word can be contray of something to anything or the reverse of somthing.\nFor e.g, the opposite word of 'cold' is 'hot' "}
+    ],
+    "synonym": [
+        {"define": "The definition of synonym is a word that has similar meaning or the same meaning as different word.\nFor e.g, the synonym of 'happy' can be 'cheerful, joyful, delighted e.t.c.."}
+    ]
+
+}

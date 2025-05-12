@@ -1,0 +1,83 @@
+{
+    "past_tenses":[
+        {
+            "topic":"Past Tense",
+            "define": "Actions that already happed is used to describe past tense.It can be divided into four subcategories: simple past, past continuous, past perfect, and past perfect continuous."
+        },
+        {
+            "topic": "Simple past",
+            "define":"This tense is used to describe completed actions in the past. For example, She ate breakfast yesterday"
+        },
+        {
+            "topic": "Past Continous",
+            "define": "Past Continuous; This tense is used to describe actions that were happening at a specific time in the past. For example, She was eating breakfast at 8 am yesterday"
+        },
+        { 
+            "topic":" Past Perfect",
+            "define": "Past Perfect: This tense is used to describe an action that was completed before another past action. For example, She had eaten breakfast before she went to work"
+        },
+        { 
+            "topic": "Past Perfect Continuous",
+            "define":"Past Perfect Continuous: This tense is used to describe an action that was ongoing in the past and continued up to a specific point in the past. For example, She had been eating breakfast for an hour when her friend arrived."
+        }
+    ],
+
+    "present_tense":[
+        {
+            "topic": "Present Tense",
+            "define" : "The present tense is used to describe actions that are currently happening or are ongoing. It can be divided into four subcategories: simple present, present continuous, present perfect, and present perfect continuous."
+        },
+        {
+            "topic": "Simple Present",
+            "define" : "Simple Present: This tense is used to describe habitual actions or general truths. For example, She eats breakfast every day."
+        },
+        {
+            "topic": "Present Continous",
+            "define" : "This tense is used to describe actions that are happening at the moment of speaking. For example, She is eating breakfast now."
+        },
+        {
+            "topic": "Present Perfect",
+            "define" : "This tense is used to describe actions that started in the past and continue up to the present. For example, She has eaten breakfast already."
+        },
+        {
+            "topic": "Present Perfect Continuos",
+            "define" : "This tense is used to describe actions that started in the past and continue up to the present with a focus on the duration of the action. For example, She has been eating breakfast for an hour."
+        }
+    ],
+
+    "future_tense":[
+        {
+            "topic": "Future Tense",
+            "define" : "The future tense is used to describe actions that will happen in the future. It can be divided into four subcategories: simple future, future continuous, future perfect, and future perfect continuous."
+        },
+        {
+            "topic": "Simple Future:",
+            "define" : "This tense is used to describe actions that will happen in the future. For example, “She will eat breakfast tomorrow"
+        },
+        {
+            "topic": "Future Continuous",
+            "define" : "This tense is used to describe actions that will be happening at a specific time in the future. For example, She will be eating breakfast at 8 am tomorrow."
+        },
+        {
+            "topic": "Future Perfect",
+            "define" : "This tense is used to describe an action that will be completed before another future action. For example, She will have eaten breakfast before she goes to work"
+        },
+        {
+            "topic": "Future Perfect Continuous",
+            "define" : "This tense is used to describe an action that will be ongoing in the future and continue up to a specific point in the future. For example, She will have been eating breakfast for an hour when her friend arrives."
+        }
+    ],
+    "prepositions":[
+        {
+            "topic":"Preposition",
+            "define": "A preposition is a word or group of words used before a noun, pronoun, or noun phrase to show direction, time, place, location, spatial relationships, or to introduce an object. Some examples of prepositions are words like 'in,' 'at,' 'on,''of,' and to'."
+        }
+    ],
+    "If_clauses":[
+        {
+            "topic": "If-clauses",
+            "define": "If-clauses, also known as conditional clauses, are a type of dependent clause that express a condition and its potential result. They are used to talk about hypothetical or imaginary situations and their possible outcomes.If-clauses are formed by using the conjunction 'if' followed by a clause that expresses a condition. The result of the condition is usually expressed in an independent clause that follows the if-clause."
+        }
+    ]
+
+}
